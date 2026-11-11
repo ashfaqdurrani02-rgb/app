@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Hercule Poirot",
+    "difficulty": "Hard",
+    "score": 98,
+    "setting": "Train Journey",
+    "date": "2026-10-15"
+  },
+  {
+    "name": "Sherlock Holmes",
+    "difficulty": "Hard",
+    "score": 95,
+    "setting": "Old Mansion",
+    "date": "2026-10-22"
+  },
+  {
+    "name": "Miss Marple",
+    "difficulty": "Medium",
+    "score": 91,
+    "setting": "Village Wedding",
+    "date": "2026-11-01"
+  },
+  {
+    "name": "Sam Spade",
+    "difficulty": "Medium",
+    "score": 87,
+    "setting": "Luxury Hotel",
+    "date": "2026-11-05"
+  },
+  {
+    "name": "Philip Marlowe",
+    "difficulty": "Easy",
+    "score": 82,
+    "setting": "Film Set",
+    "date": "2026-11-09"
+  }
+]
+
